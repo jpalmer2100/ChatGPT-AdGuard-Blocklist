@@ -1,0 +1,5 @@
+!
+! Title: AdGuard DNS filter
+! Description: List composed of ChatGPT
+||openai.com^
+||chatgpt.com^
